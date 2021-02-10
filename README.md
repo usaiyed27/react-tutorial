@@ -20,9 +20,13 @@
 
 <p>This is JSX, which stands for JavaScript XML. With JSX, we can write what looks like HTML, and also we can create and use our own XML-like tag</p>
 
-<p>const heading = '<h1 className="site-heading">Hello, React</h1>'</p>
+<!-- <p>const heading = '<h1 className="site-heading">Hello, React</h1>'</p> -->
 
 
 <h3>Props</h3>
 
 <p>One of the big feature of React is how it handles data, and it does so with properties, referred to as props, and with state.</p>
+
+<h3>State</h3>
+
+<p>W3Shool definition: React components has a built in state object. The state object is where you store property values that belongs to the component.  When the state object changes, the component re-renders.</p>
