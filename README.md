@@ -15,3 +15,9 @@
 
 
 <p>One of the most important aspects of React is the fact that you can create components, which are like custom, reusable HTML elements, to quickly and efficiently build user interfaces. React also streamlines how data is stored and handled, using state and props.</p>
+
+<h3>JSX: JavaScript + XML</h3>
+
+<p>This is JSX, which stands for JavaScript XML. With JSX, we can write what looks like HTML, and also we can create and use our own XML-like tag</p>
+
+<p>const heading = <h1 className="site-heading">Hello, React</h1></p>
